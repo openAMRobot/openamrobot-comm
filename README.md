@@ -2,9 +2,9 @@
 
 Communication protocols, APIs, middleware bridges, transport layers, and interoperability definitions for the OpenAMRobot ecosystem.
 
-## Repository Status
+> **Status:** Planned, no code yet
 
-Current maturity level: Experimental
+The directory layout below is scaffolding. No protocol, schema, or bridge is defined yet, and nothing here is stable enough to depend on.
 
 ## Purpose
 
